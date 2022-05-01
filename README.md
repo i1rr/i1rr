@@ -1,5 +1,8 @@
 Hi 👋 My name is Ivan
-=====================* 🌍  I'm based in Sydney
+===================== 
+🌍  I'm based in Sydney
+
+<br><br><br>
 
 ### Skills
 
